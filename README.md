@@ -37,37 +37,37 @@ $ pip install ipython
 
 ### Libraries Used
 1. nn-from-scratch.ipynb
-  * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
-  * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
-  * [Scikit-learn](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Scikit-learn.ipynb)
-  * [SciPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb)
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
+   * [SciPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb)
+   * [Scikit-learn](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Scikit-learn.ipynb)
 2. autoencoder_with_MNIST.ipynb
-  * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
-  * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
 3. LSTM.ipynb
-  * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
 4. multilayer_perceptron_MNIST.ipynb
-  * None
+   * None
 5. recurrent_neural_network.ipynb
-  * None
+   * None
 6. Stacked_Denoising_Autoencoder.ipynb
-  * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
-  * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
 
 
 ### Frameworks Used
 1. nn-from-scratch.ipynb
-  * None
+   * None
 2. autoencoder_with_MNIST.ipynb
-  * [Tensorflow](https://www.tensorflow.org/)
+   * [Tensorflow](https://www.tensorflow.org/)
 3. LSTM.ipynb
-  * [Tensorflow](https://www.tensorflow.org/)
+   * [Tensorflow](https://www.tensorflow.org/)
 4. multilayer_perceptron_MNIST.ipynb
-  * [Tensorflow](https://www.tensorflow.org/)
+   * [Tensorflow](https://www.tensorflow.org/)
 5. recurrent_neural_network.ipynb
-  * [Tensorflow](https://www.tensorflow.org/)
+   * [Tensorflow](https://www.tensorflow.org/)
 6. Stacked_Denoising_Encoder.ipynb
-  * [Tensorflow](https://www.tensorflow.org/)
+   * [Tensorflow](https://www.tensorflow.org/)
 
  
 ## Contributing
