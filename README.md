@@ -36,27 +36,38 @@ $ pip install ipython
 ```
 
 ### Libraries Used
-* [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
-* [SciPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb)
-* [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
-* [Pandas](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Pandas.ipynb)
-* [Statsmodels](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Statsmodels.ipynb)
-* [Scikit-learn](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Scikit-learn.ipynb)
-* [Seaborn](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Seaborn.ipynb)
-* [NetworkX](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NetworkX.ipynb)
-* [PyMC](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/PyMC.ipynb)
-* [NLTK](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NLTK.ipynb)
-* [DEAP](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/DEAP.ipynb)
-* [Gensim](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Gensim.ipynb)
+1. nn-from-scratch.ipynb
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
+   * [SciPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/SciPy.ipynb)
+   * [Scikit-learn](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Scikit-learn.ipynb)
+2. autoencoder_with_MNIST.ipynb
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
+3. LSTM.ipynb
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+4. multilayer_perceptron_MNIST.ipynb
+   * None
+5. recurrent_neural_network.ipynb
+   * None
+6. Stacked_Denoising_Autoencoder.ipynb
+   * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
 
 
 ### Frameworks Used
-* [Tensorflow](https://www.tensorflow.org/)
-* [Keras](https://keras.io/)
-* [Torch](http://torch.ch/)
-* [PyTorch](http://pytorch.org/)
-* [MXNet](http://mxnet.incubator.apache.org/)
-
+1. nn-from-scratch.ipynb
+   * None
+2. autoencoder_with_MNIST.ipynb
+   * [Tensorflow](https://www.tensorflow.org/)
+3. LSTM.ipynb
+   * [Tensorflow](https://www.tensorflow.org/)
+4. multilayer_perceptron_MNIST.ipynb
+   * [Tensorflow](https://www.tensorflow.org/)
+5. recurrent_neural_network.ipynb
+   * [Tensorflow](https://www.tensorflow.org/)
+6. Stacked_Denoising_Encoder.ipynb
+   * [Tensorflow](https://www.tensorflow.org/)
 
  
 ## Contributing
