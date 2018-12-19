@@ -53,7 +53,13 @@ $ pip install ipython
 6. Stacked_Denoising_Autoencoder.ipynb
    * [NumPy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
    * [Matplotlib](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Matplotlib.ipynb)
-
+7. rnn_using_dynet.ipynb
+   * [Pandas](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/Pandas.ipynb)
+   * [Numpy](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NumPy.ipynb)
+   * [NLTK](http://nbviewer.jupyter.org/github/jdwittenauer/ipython-notebooks/blob/master/notebooks/libraries/NLTK.ipynb)
+   * CMake
+   * Mercurial
+   * Cython
 
 ### Frameworks Used
 1. nn-from-scratch.ipynb
@@ -68,6 +74,8 @@ $ pip install ipython
    * [Tensorflow](https://www.tensorflow.org/)
 6. Stacked_Denoising_Encoder.ipynb
    * [Tensorflow](https://www.tensorflow.org/)
+7. rnn_using_dynet.ipynb
+   * [DyNet](http://dynet.io/)
 
  
 ## Contributing
